@@ -1,0 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=sanchez:400,400italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=pontano+sans&subset=latin,latin-ext);
+
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: "pontano sans", sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "sanchez", serif;
+}
